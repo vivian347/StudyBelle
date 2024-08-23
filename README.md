@@ -10,6 +10,7 @@
 - Options to add new subjects and start a study session.
 - View upcoming tasks.
 - View recent study sessions.
+  
   ![Alt text](C:\Users\pc\Pictures\Saved%Pictures\IMG-20240823-WA0013.jpg)
   ![Alt text](C:\Users\pc\Pictures\Saved%Pictures\IMG-20240823-WA0009.jpg)
   ![Alt text](C:\Users\pc\Pictures\Saved%Pictures\IMG-20240823-WA0017.jpg)
