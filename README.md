@@ -10,9 +10,12 @@
 - Options to add new subjects and start a study session.
 - View upcoming tasks.
 - View recent study sessions.
-  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0013.jpg)
-  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0009.jpg)
-  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0017.jpg)
+  
+  <div style="display: flex; gap: 10px;">
+  <img src="/app/src/main/res/drawable/img_20240823_wa0013.jpg" alt="Alt text" style="width: 200px; height: auto;">
+  <img src="/app/src/main/res/drawable/img_20240823_wa0009.jpg" alt="Alt text" style="width: 200px; height: auto;">
+  <img src="/app/src/main/res/drawable/img_20240823_wa0017.jpg" alt="Alt text" style="width: 200px; height: auto;">
+</div>
 
 
 ### 2. Subject Page
