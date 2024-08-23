@@ -11,7 +11,7 @@
 - View upcoming tasks.
 - View recent study sessions.
   
-  <div style="display: flex; gap: 50px;">
+  <div style="display: flex; gap: 800px;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0013.jpg" alt="Alt text" style="width: 200px; height: auto;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0009.jpg" alt="Alt text" style="width: 200px; height: auto;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0017.jpg" alt="Alt text" style="width: 200px; height: auto;">
@@ -24,7 +24,7 @@
 - Lists upcoming tasks and completed tasks.
 - Allows the user to add new tasks related to the subject.
 
- <div style="display: flex; gap: 50px;">
+ <div style="display: flex; gap: 800px;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0010.jpg" alt="Alt text" style="width: 200px; height: auto;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0016.jpg" alt="Alt text" style="width: 200px; height: auto;">
 </div>
@@ -34,7 +34,7 @@
 - Select the subject the task belongs to.
 - Manage and organize tasks efficiently.
   
- <div style="display: flex; gap: 50px;">
+ <div style="display: flex; gap: 800px;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0011.jpg" alt="Alt text" style="width: 200px; height: auto;">
 </div>
 
@@ -44,7 +44,7 @@
 - Shows timer in Notification panel
 - View a history list of previous study sessions.
 
-<div style="display: flex; gap: 50px;">
+<div style="display: flex; gap: 800px;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0014.jpg" alt="Alt text" style="width: 200px; height: auto;">
   <img src="/app/src/main/res/drawable/img_20240823_wa0015.jpg" alt="Alt text" style="width: 200px; height: auto;">
 </div>
