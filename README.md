@@ -10,9 +10,9 @@
 - Options to add new subjects and start a study session.
 - View upcoming tasks.
 - View recent study sessions.
-  ![Alt text](C:\Users\pc\Pictures\Saved Pictures\IMG-20240823-WA0013.jpg)
-  ![Alt text](C:\Users\pc\Pictures\Saved Pictures\IMG-20240823-WA0009.jpg)
-  ![Alt text](C:\Users\pc\Pictures\Saved Pictures\IMG-20240823-WA0017.jpg)
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0013.jpg)
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0009.jpg)
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0017.jpg)
 
 
 ### 2. Subject Page
@@ -21,16 +21,26 @@
 - Lists upcoming tasks and completed tasks.
 - Allows the user to add new tasks related to the subject.
 
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0010.jpg)
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0016.jpg)
+
 ### 3. Task Screen
 - Add new tasks with a due date and set task priority.
 - Select the subject the task belongs to.
 - Manage and organize tasks efficiently.
+
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0011.jpg)
+
 
 ### 4. Timer Screen
 - Select a subject to study.
 - Start, stop, cancel, and resume study sessions.
 - Shows timer in Notification panel
 - View a history list of previous study sessions.
+
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0014.jpg)
+  ![Alt text](/app/src/main/res/drawable/img_20240823_wa0015.jpg)
+
 
 ## Technologies Used
 
