@@ -67,6 +67,11 @@
 3. **Task Screen**: Easily add tasks, prioritize them, and associate them with specific subjects.
 4. **Timer Screen**: Use the built-in timer to manage your study sessions and keep a history of your progress.
 
+## Contact
+
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/vivian-kinyua-5289051a0/)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
